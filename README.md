@@ -11,6 +11,17 @@
 ##### 8.[sktime/sktime-dl](https://github.com/sktime/sktime-dl)
 ##### 9.[EvilPsyCHo/Deep-Time-Series-Prediction](https://github.com/EvilPsyCHo/Deep-Time-Series-Prediction)
 ##### 10.[jiwidi/time-series-forecasting-with-python](https://github.com/jiwidi/time-series-forecasting-with-python)
+##### 11.[tsfresh](https://tsfresh.readthedocs.io/en/latest/)
+##### 12.[Sktime](https://www.sktime.org/en/stable/estimator_overview.html)
+##### 13.[Darts](https://github.com/unit8co/darts)
+##### 14.[Kats](https://github.com/facebookresearch/Kats)
+##### 15.[GluonTS](https://github.com/awslabs/gluon-ts)
+##### 16.[pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting)
+##### 17.[tsai](https://github.com/timeseriesAI/tsai)
+##### 18.[Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast)
+##### 19.[AutoTS](https://github.com/winedarksea/AutoTS)
+
+
 
 ### Knowledge Graph
 ##### 1.[liuhuanyong/QASystemOnMedicalKG](https://github.com/liuhuanyong/QASystemOnMedicalKG)
